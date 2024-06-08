@@ -10,4 +10,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 AOOOOW POTENCIA 
 Faz o pull ai, quero ver!
 
-faz o fecth
+faz o fetch
